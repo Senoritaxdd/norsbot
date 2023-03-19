@@ -1,1 +1,1 @@
-# norsbot
+# Nors-Bot
